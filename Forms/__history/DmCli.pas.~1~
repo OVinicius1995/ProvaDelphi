@@ -1,0 +1,25 @@
+unit DmCli;
+
+interface
+
+uses
+  System.SysUtils, System.Classes;
+
+type
+  TDmCadCli = class(TDataModule)
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  DmCadCli: TDmCadCli;
+
+implementation
+
+{%CLASSGROUP 'Vcl.Controls.TControl'}
+
+{$R *.dfm}
+
+end.

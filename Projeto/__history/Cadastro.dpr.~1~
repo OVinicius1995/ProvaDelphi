@@ -1,0 +1,14 @@
+program Cadastro;
+
+uses
+  Vcl.Forms,
+  frmCadClientes in '..\Forms\frmCadClientes.pas' {frmCadUser};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TfrmCadUser, frmCadUser);
+  Application.Run;
+end.

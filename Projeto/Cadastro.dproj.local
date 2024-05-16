@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/09/21 10:23:11.000.658,=C:\Users\ViniciusAbreudeOlive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/15 22:47:34.037,=C:\Users\ViniciusAbreudeOlive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/15 22:49:33.030,C:\Users\ViniciusAbreudeOlive\Desktop\Projetos-Delphi\ProvaDelphi\Forms\frmCadClientes.pas=C:\Users\ViniciusAbreudeOlive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/15 22:49:33.030,C:\Users\ViniciusAbreudeOlive\Desktop\Projetos-Delphi\ProvaDelphi\Forms\frmCadClientes.dfm=C:\Users\ViniciusAbreudeOlive\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/05/15 22:50:04.064,C:\Users\ViniciusAbreudeOlive\Desktop\Projetos-Delphi\ProvaDelphi\Projeto\Cadastro.dproj=C:\Users\ViniciusAbreudeOlive\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/05/15 22:51:45.686,=C:\Users\ViniciusAbreudeOlive\Desktop\Projetos-Delphi\ProvaDelphi\Projeto\Unit1.pas</Transaction>
+    <Transaction>2024/05/15 22:52:18.272,C:\Users\ViniciusAbreudeOlive\Desktop\Projetos-Delphi\ProvaDelphi\Forms\DmCli.dfm=C:\Users\ViniciusAbreudeOlive\Desktop\Projetos-Delphi\ProvaDelphi\Projeto\Unit1.dfm</Transaction>
+    <Transaction>2024/05/15 22:52:18.272,C:\Users\ViniciusAbreudeOlive\Desktop\Projetos-Delphi\ProvaDelphi\Forms\DmCli.pas=C:\Users\ViniciusAbreudeOlive\Desktop\Projetos-Delphi\ProvaDelphi\Projeto\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
